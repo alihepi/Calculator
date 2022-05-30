@@ -1,0 +1,5 @@
+C:\Users\alimu\Desktop\C#\myapp\obj\Release\myapp.csproj.SuggestedBindingRedirects.cache
+C:\Users\alimu\Desktop\C#\myapp\obj\Release\myapp.Form1.resources
+C:\Users\alimu\Desktop\C#\myapp\obj\Release\myapp.Properties.Resources.resources
+C:\Users\alimu\Desktop\C#\myapp\obj\Release\myapp.csproj.GenerateResource.cache
+C:\Users\alimu\Desktop\C#\myapp\obj\Release\myapp.csproj.CoreCompileInputs.cache

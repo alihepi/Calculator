@@ -1,0 +1,11 @@
+C:\Users\alimu\Desktop\C#\myapp\bin\Debug\myapp.exe.config
+C:\Users\alimu\Desktop\C#\myapp\bin\Debug\myapp.exe
+C:\Users\alimu\Desktop\C#\myapp\bin\Debug\myapp.pdb
+C:\Users\alimu\Desktop\C#\myapp\obj\Debug\myapp.csproj.AssemblyReference.cache
+C:\Users\alimu\Desktop\C#\myapp\obj\Debug\myapp.csproj.SuggestedBindingRedirects.cache
+C:\Users\alimu\Desktop\C#\myapp\obj\Debug\myapp.Form1.resources
+C:\Users\alimu\Desktop\C#\myapp\obj\Debug\myapp.Properties.Resources.resources
+C:\Users\alimu\Desktop\C#\myapp\obj\Debug\myapp.csproj.GenerateResource.cache
+C:\Users\alimu\Desktop\C#\myapp\obj\Debug\myapp.csproj.CoreCompileInputs.cache
+C:\Users\alimu\Desktop\C#\myapp\obj\Debug\myapp.exe
+C:\Users\alimu\Desktop\C#\myapp\obj\Debug\myapp.pdb
